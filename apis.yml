@@ -1,0 +1,16 @@
+name: Micro-service Architecture Patterns
+description: Design patterns and best practices for building distributed systems using
+  microservices architecture, including service decomposition, communication patterns,
+  data management, and deployment strategies. Modern distributed architectures rely
+  on it to coordinate workloads across multiple nodes and regions.
+url: https://microservices.io/patterns/index.html
+tags:
+- Microservices
+- Architecture
+- Design Patterns
+- Distributed Systems
+- Software Engineering
+created: '2025'
+modified: '2025'
+apis: []
+common: []
