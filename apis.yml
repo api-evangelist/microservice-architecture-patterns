@@ -15,10 +15,16 @@ tags:
   - Microservices
   - Software Engineering
 created: '2025-01-01'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Reference
+    url: https://microservices.io/patterns/index.html
+  - type: Microservices.io
+    url: https://microservices.io/
+  - type: Pattern Language
+    url: https://microservices.io/patterns/microservices.html
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

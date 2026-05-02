@@ -16,7 +16,13 @@ Design patterns and best practices for building distributed systems using micros
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
+
+## Common Properties
+
+- [Reference](https://microservices.io/patterns/index.html)
+- [Microservices.io](https://microservices.io/)
+- [Pattern Language](https://microservices.io/patterns/microservices.html)
 
 ## Maintainers
 
