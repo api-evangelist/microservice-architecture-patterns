@@ -1,0 +1,14 @@
+{
+  "repo": "microservice-architecture-patterns",
+  "feeds": [
+    {
+      "source": "https://microservices.io/feed.xml",
+      "feed_url": "https://microservices.io/feed.xml",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
